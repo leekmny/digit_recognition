@@ -1,0 +1,29 @@
+# Python environments and cache
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Downloaded training data
+data/
+*.part
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
