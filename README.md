@@ -1,5 +1,7 @@
 # Digit Studio
 
+**한국어** | [English](./README.en.md)
+
 마우스로 쓴 숫자 하나를 인식하는 Python 프로젝트입니다. MNIST로 학습한 신경망을 웹 화면과 Tkinter 데스크톱 앱에서 함께 사용합니다.
 
 ![Digit Studio 실행 화면](docs/preview.png)
